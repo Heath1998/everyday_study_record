@@ -20,6 +20,8 @@
 
 2023/01/14  默默背单词 100背完成（1h）[141](https://leetcode.cn/problems/linked-list-cycle/submissions/) leetcode141英语读题 
 
+2023/01/15  默默背单词 100背完成（1h）
+
 
 
  
